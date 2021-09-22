@@ -116,7 +116,7 @@ namespace PraktikumsAufgabe1
                 }
                 else
                 {
-                    Console.WriteLine("index out of range");
+                    Console.WriteLine("index out of range achtung");
                     System.Environment.Exit(-1);
                 }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj": {}
+    "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj": {
+    "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
+        "projectUniqueName": "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
         "projectName": "PraktikumsAufgabe1",
-        "projectPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
+        "projectPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
         "packagesPath": "C:\\Users\\eyupc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\obj\\",
+        "outputPath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyupc\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "muiSq7qHBpU17Xwot87eKJ0tjnZBHPDzKATRhisHK/iGPUS5URgUA/CNDwlGxHB3BHHRvaCIk2dWK++cUfbQTg==",
+  "dgSpecHash": "dOvAwx6LwzYjYydbsTiqq7HjPs7ysLD81ghQ+xgaNy9v7kMoDp8kCcNLAIs6fu+rmk6vxA82l1kPDtGFF+lbqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\C#\\programmieren 2\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
+  "projectFilePath": "C:\\Users\\eyupc\\OneDrive\\Desktop\\GitHub\\PraktikumsAufgabe1\\PraktikumsAufgabe1\\PraktikumsAufgabe1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eyupc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
