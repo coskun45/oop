@@ -1,0 +1,13 @@
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.exe
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.deps.json
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.runtimeconfig.json
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.runtimeconfig.dev.json
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.dll
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\bin\Debug\netcoreapp3.1\PraktikumsAufgabe1.pdb
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.csproj.AssemblyReference.cache
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.AssemblyInfoInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.AssemblyInfo.cs
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.dll
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.pdb
+C:\Users\eyupc\OneDrive\Desktop\C#\programmieren 2\PraktikumsAufgabe1\PraktikumsAufgabe1\obj\Debug\netcoreapp3.1\PraktikumsAufgabe1.genruntimeconfig.cache
